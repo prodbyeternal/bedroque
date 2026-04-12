@@ -21,7 +21,7 @@ The mod is built on top of the **SourceAutoRun** plugin as a base, commonly used
 
 ### 🎨 Visual Customization
 
-* Click-based GUI menu powered by ImGui
+* Extensively customizable click-based GUI menu powered by ImGui
 * Field of View (FOV) changer
 * Movement trails
 * CS:GO-style crosshair
