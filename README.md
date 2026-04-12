@@ -51,7 +51,7 @@ bedroque is intended for **practice, experimentation, and fun only**. Use at you
 * *-pixelsurfing here is more of "wallsurfing" in this instance.
 * **-edgebugging is made basing off of player position and assisting by making a platform for edgebugging.
 
---
+---
 
 ## ✨ Special thanks!
 To the incredible team at P2SR for making and maintaining SourceAutoRun, without the plugin, this mod wouldn't even be possible!
