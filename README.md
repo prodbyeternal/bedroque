@@ -1,7 +1,7 @@
 # bedroque
 **bedroque** is a *vibe-coded,* for-fun movement mod for Source Engine games built on the Portal 2 branch. Originally created as an addon for *The Stanley Parable*, it enhances movement mechanics and adds a variety of customization tools for experimentation and practice.
 
-*note*: currently its on the state of a full rewrite as per code corruption, if i dont get the exact state back as i had with my current tachyon branch tests, im going to give a debug build i have in releases.
+*note*: codebase went all boom, theres no way for me to recover the code i had, so no source code, but i'll say that its really feature complete nonetheless!
 
 The mod is built on top of the **SourceAutoRun** plugin as a base, commonly used within the speedrunning community.
 
@@ -14,12 +14,7 @@ The mod is built on top of the **SourceAutoRun** plugin as a base, commonly used
 * Bunnyhopping (auto-hop support, ABH/OldEngine styles)
 * Duckjump unlock
 * Air acceleration overrides
-* Built-in movement binds:
-
-  * Long Jump (LJ) *(currently limited on this engine branch, to be worked)*
-  * Multi Jump (MJ) *(currently limited on this engine branch, to be worked)*
-  * Jump Bug (JB) *(currently limited on this engine branch, to be worked)*
-* Advanced techniques:
+* Advanced movement techniques:
 
   * Edgebugging**
   * Pixelsurfing*
@@ -34,12 +29,17 @@ The mod is built on top of the **SourceAutoRun** plugin as a base, commonly used
 * Velocity graph
 * See what you are listening to in-game!
 
+### 🕹️ Supported Games:
+
+The mod supports only Portal 2 and The Stanley Parable natively.
+There won't be a Linux build any time soon, run the mod via Proton.
+
 ---
 
 ## ⚠️ Important Notes
 
-* `sv_cheats` is enabled **by default** when using this mod. (protection to be removed)
-* Achievements will be disabled while the mod is active.
+* `sv_cheats` is enabled **by default** when using this mod.
+* It's not recommended to use the plugin in Co-op, although it is kind of funny.
 * Not recommended for use in official or competitive speedruns.
 
 ---
