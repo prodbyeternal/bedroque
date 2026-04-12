@@ -1,6 +1,8 @@
 # bedroque
 **bedroque** is a *vibe-coded,* for-fun movement mod for Source Engine games built on the Portal 2 branch. Originally created as an addon for *The Stanley Parable*, it enhances movement mechanics and adds a variety of customization tools for experimentation and practice.
 
+*note*: currently its on the state of a full rewrite as per code corruption, if i dont get the exact state back as i had with my current tachyon branch tests, im going to give a debug build i have in releases.
+
 The mod is built on top of the **SourceAutoRun** plugin as a base, commonly used within the speedrunning community.
 
 ---
