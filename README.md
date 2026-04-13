@@ -44,16 +44,11 @@ There won't be a Linux build any time soon, run the mod via Proton.
 
 ---
 
-## 📌 Disclaimer
+## 📌 Note as of 13 April 2026
 
-bedroque is intended for **practice, experimentation, and fun only**. Use at your own discretion.
+bedroque and future movement mods of mine will stay for my private use only.
 
----
 
-* *-pixelsurfing here is more of "wallsurfing" in this instance.
-* **-edgebugging is made basing off of player position and assisting by making a platform for edgebugging.
-
----
 
 ## ✨ Special thanks!
 To the incredible team at P2SR for making and maintaining SourceAutoRun, without the plugin, this mod wouldn't even be possible!
